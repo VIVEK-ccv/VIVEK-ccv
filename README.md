@@ -18,6 +18,54 @@
 ---
 
 <div align="center">
+---
+
+<div align="center">
+
+# 🖥️ VIVEK.EXE // COMMAND CENTER
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=850&lines=%3E+booting+VIVEK.EXE...;%3E+loading+developer+profile...;%3E+scanning+skills...;%3E+connecting+to+GitHub...;%3E+SYSTEM+ONLINE+%E2%9A%A1" />
+
+</div>
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    PLAYER PROFILE // 001                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  👤 USER       : VIVEK                                       ║
+║  🎓 CLASS      : B.Tech CSE Student                          ║
+║  💻 ROLE       : Developer In Progress                       ║
+║  🎌 MODE       : Anime Developer                             ║
+║  🌃 THEME      : Cyberpunk                                   ║
+║  ⚡ STATUS     : GRINDING                                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+🎮 DEVELOPER XP SYSTEM
+</div>
+C PROGRAMMING      ████████░░░░░░░░░░░░   LEVEL 01
+
+PYTHON             ███████░░░░░░░░░░░░░   LEVEL 01
+
+WEB DEVELOPMENT    ██████░░░░░░░░░░░░░░   LEVEL 01
+
+GITHUB             █████████░░░░░░░░░░░   LEVEL 02
+
+AI / ML            ████░░░░░░░░░░░░░░░░   EXPLORING
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CURRENT QUEST:
+> Become the strongest version of VIVEK.EXE ⚡
+
+XP STATUS:
+████████████████░░░░  80%
+<div align="center">
+⚔️ TECH ARSENAL
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git,github,vscode,vite" /> </div>
 
 ## 🖥️ SYSTEM.INITIALIZE()
 
