@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./vivek-banner.png" width="100%" alt="VIVEK.EXE Cyberpunk Banner"/>
+  <img src="vivek-banner.png" width="100%" alt="VIVEK.EXE Cyberpunk Banner">
 </p>
 <div align="center">
 
