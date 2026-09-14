@@ -3,11 +3,11 @@
 </p>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=VIVEK.EXE+%E2%9A%A1;ANIME+DEVELOPER+%C3%97+CYBERPUNK+CODER;CODE.+LEARN.+BUILD.+REPEAT.;SYSTEM+STATUS%3A+ONLINE+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=VIVEK+%E2%9A%A1;ANIME+DEVELOPER+%C3%97+CYBERPUNK+CODER;CODE.+LEARN.+BUILD.+REPEAT.;SYSTEM+STATUS%3A+ONLINE+%F0%9F%94%A5" />
 
 <br/>
 
-# ⚡ VIVEK.EXE ⚡
+# ⚡ VIVEK ⚡
 
 ### 「 ANIME DEVELOPER × CYBERPUNK CODER 」
 
@@ -42,7 +42,7 @@
 
 # 👁️‍🗨️ VIVEK.EXE // IDENTIFIED
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Scanning+player+data...;Identity+confirmed...;Welcome+to+the+world+of+VIVEK.EXE+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Scanning+player+data...;Identity+confirmed...;Welcome+to+my+SOUL+SOCIETY+%E2%9A%A1" />
 
 </div>
 
