@@ -145,7 +145,7 @@ SYSTEM STATUS: ████████████████████ ONLI
 # ⚡ CODE • LEARN • BUILD • REPEAT ⚡
 
 </div>
----
+
 
 <div align="center">
 
@@ -157,7 +157,7 @@ SYSTEM STATUS: ████████████████████ ONLI
 
 <br>
 
-```text
+text
 ╔══════════════════════════════════════════════════════════════╗
 ║                    PLAYER PROFILE // 001                     ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -170,7 +170,7 @@ SYSTEM STATUS: ████████████████████ ONLI
 ║  ⚡ STATUS     : GRINDING                                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+
 
 <div align="center">
 
@@ -228,5 +228,37 @@ XP STATUS:
 ⚔️ TECH ARSENAL
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git,github,vscode,vite" /> </div>
 ---
+<div align="center">
+
+# ⚡ VIVEK.EXE // LIVE SYSTEM
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=SYSTEM+STATUS%3A+ONLINE+%E2%9C%85;CURRENT+MODE%3A+LEARNING+%26+BUILDING;NEXT+LEVEL%3A+FULL+STACK+DEVELOPER;MISSION%3A+BECOME+UNSTOPPABLE+%E2%9A%A1" />
+
+<br/><br/>
+
+## 🔥 CURRENT DEVELOPER ACTIVITY
+
+text
+[████████████████████░░]  85%
+
+⚡ LEARNING       → C Programming + Python
+💻 BUILDING       → Web Projects
+🎮 EXPLORING      → AI + Game Development
+🚀 NEXT TARGET    → Full Stack Development
+
+STATUS: GRINDING...
+<br/> <img src="https://github-profile-trophy.vercel.app/?username=VIVEK-ccv&theme=radical&no-frame=true&no-bg=true&margin-w=10" /> </div>
+<div align="center">
+🐍 CONTRIBUTION SNAKE
+<img src="https://raw.githubusercontent.com/VIVEK-ccv/VIVEK-ccv/output/github-contribution-grid-snake-dark.svg" /> </div>
+<div align="center">
+⚔️ FINAL SYSTEM MESSAGE
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Code+Today...;Build+Tomorrow...;Become+Legendary...;%E2%9A%A1+VIVEK.EXE+NEVER+STOPS+GRINDING+%E2%9A%A1" />
+
+<br/><br/>
+
+「 CODE • LEARN • BUILD • REPEAT 」
+⚡ SEE YOU AT THE NEXT LEVEL ⚡
+</div>
 
 
