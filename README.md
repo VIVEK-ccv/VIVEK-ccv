@@ -361,19 +361,19 @@ SKILL	STATUS
 🗺️ DEVELOPER STORY ARC
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=ARC+01%3A+THE+BEGINNING+%E2%9A%A1;ARC+02%3A+LEARNING+THE+LANGUAGE+OF+CODE+%F0%9F%92%BB;ARC+03%3A+BUILDING+MY+FIRST+PROJECTS+%F0%9F%9A%80;ARC+04%3A+THE+FULL+STACK+AWAKENING+%F0%9F%94%A5;FINAL+ARC%3A+VIVEK.EXE+LEGEND+MODE+%E2%9A%94%EF%B8%8F" /> </div>
 🔥 CURRENT ANIME QUEST
-┌──────────────────────────────────────────────────┐
+
 │                                                  │
-│              🎯 MAIN QUEST                       │
-│                                                  │
-│     Become the strongest version of VIVEK.EXE    │
-│                                                  │
-│  ⚡ Learn                                      │
-│  ⚡ Build                                      │
-│  ⚡ Fail                                       │
-│  ⚡ Improve                                    │
-│  ⚡ Repeat                                     │
-│                                                  │
-└──────────────────────────────────────────────────┘
+  │              🎯 MAIN QUEST                 │
+
+│ Become the strongest version of VIVEK.EXE │
+                                                
+│ ⚡ Learn                                      │
+│ ⚡ Build                                      │
+│ ⚡ Fail                                       │
+│ ⚡ Improve                                    │
+│ ⚡ Repeat                                     │
+
+└───────────────────────────────────────────────┘
 <div align="center">
 🥷 DEVELOPER NINDO
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=900&lines=I+Will+Keep+Coding...;I+Will+Keep+Learning...;I+Will+Keep+Building...;Until+I+Reach+My+Next+Level+%E2%9A%A1" /> <br/>
