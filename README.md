@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=VIVEK+%E2%9A%A1;ANIME+DEVELOPER+%C3%97+CYBERPUNK+CODER;CODE.+LEARN.+BUILD.+REPEAT.;SYSTEM+STATUS%3A+ONLINE+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+VIVEK+%E2%9A%A1;ANIME+DEVELOPER+%C3%97+CYBERPUNK+CODER;CODE.+LEARN.+BUILD.+REPEAT.;SYSTEM+STATUS%3A+ONLINE+%F0%9F%94%A5" />
 
 <br/>
 
