@@ -36,24 +36,56 @@
 ╚══════════════════════════════════════════════════════╝
 </pre>
 
----
 
-## 👨‍💻 ABOUT_ME.exe
 
-<pre>
-const vivek = {
-    name: "VIVEK",
-    role: "B.Tech CSE Student",
-    university: "Chandigarh University",
-    currentlyLearning: ["C", "Python", "Web Development"],
-    interests: ["AI", "Development", "Gaming", "Anime"],
-    motto: "Code. Learn. Build. Repeat."
-};
-</pre>
+<div align="center">
+
+# 👁️‍🗨️ VIVEK.EXE // IDENTIFIED
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Scanning+player+data...;Identity+confirmed...;Welcome+to+the+world+of+VIVEK.EXE+%E2%9A%A1" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 👤 PLAYER DATA
+
+
+NAME
+VIVEK.EXE
+
+CLASS
+B.Tech CSE Student
+
+ROLE
+Developer in Progress
+
+STATUS
+⚡ ONLINE & GRINDING
+</td> <td width="50%">
+🎌 CHARACTER ATTRIBUTES
+💻 CODING       LEVELING UP
+🧠 CURIOSITY    MAX
+🎮 GAMING       ACTIVE
+🎌 ANIME        OBSESSED
+🤖 AI           EXPLORING
+🚀 PROJECTS     BUILDING
+</td> </tr> </table> <div align="center">
+⚡ CURRENT MISSION
+
+Turning caffeine, curiosity and chaos into code.
+
+<br>
+LEARN → BUILD → FAIL → UPGRADE → REPEAT
+</div>
 
 > ⚡ Currently grinding skills, building projects and leveling up one commit at a time.
 
----
+
 
 <div align="center">
 
@@ -157,7 +189,7 @@ SYSTEM STATUS: ████████████████████ ONLI
 
 <br>
 
-text
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                    PLAYER PROFILE // 001                     ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -260,5 +292,308 @@ STATUS: GRINDING...
 「 CODE • LEARN • BUILD • REPEAT 」
 ⚡ SEE YOU AT THE NEXT LEVEL ⚡
 </div>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=ANIME%20DEVELOPER%20ARC&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
+# 🎌 ENTERING THE DEVELOPER ARC
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Every+Anime+Hero+Starts+as+a+Beginner...;Every+Developer+Starts+With+Hello+World...;Training...+Failing...+Learning...+Leveling+Up...;The+Story+of+VIVEK.EXE+Has+Just+Begun+%E2%9A%A1" />
+
+</div>
+
+---
+
+# ⚔️ VIVEK.EXE CHARACTER PROFILE
+
+text
+
+|              🎌 MAIN CHARACTER DATA                
+║                                                      ║
+║  NAME        : VIVEK.EXE                             ║
+║  CLASS       : B.Tech CSE Student                    ║
+║  ARCHETYPE   : Developer Protagonist                 ║
+║  POWER TYPE  : CODE + CREATIVITY                     ║
+║  CURRENT ARC : THE BEGINNING                        ║
+║  RIVAL       : BUGS & ERRORS 💀                     ║
+║  WEAPON      : KEYBOARD ⌨️                          ║
+║  SPECIALTY   : NEVER GIVING UP ⚡                   ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+<div align="center">
+⚡ POWER LEVEL SYSTEM
+</div>
+💻 PROGRAMMING
+
+C LANGUAGE
+████████░░░░░░░░░░░░  40%
+LEVEL 01
+
+PYTHON
+███████░░░░░░░░░░░░░  35%
+LEVEL 01
+
+WEB DEVELOPMENT
+██████░░░░░░░░░░░░░░  30%
+LEVEL 01
+
+GITHUB
+██████████░░░░░░░░░░  50%
+LEVEL 02
+
+AI / MACHINE LEARNING
+████░░░░░░░░░░░░░░░░  EXPLORING
+<div align="center">
+🎮 SKILL TREE
+
+⚔️ CURRENTLY UNLOCKING
+
+</div>
+SKILL	STATUS
+💻 Programming	⚡ Training
+🐍 Python	🟢 Learning
+🌐 Web Development	🔥 Building
+🤖 Artificial Intelligence	🌱 Exploring
+🎮 Game Development	🔒 Locked
+🚀 Full Stack	🔒 Future Arc
+🧠 Advanced DSA	🔒 Training Arc
+<div align="center">
+🗺️ DEVELOPER STORY ARC
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=ARC+01%3A+THE+BEGINNING+%E2%9A%A1;ARC+02%3A+LEARNING+THE+LANGUAGE+OF+CODE+%F0%9F%92%BB;ARC+03%3A+BUILDING+MY+FIRST+PROJECTS+%F0%9F%9A%80;ARC+04%3A+THE+FULL+STACK+AWAKENING+%F0%9F%94%A5;FINAL+ARC%3A+VIVEK.EXE+LEGEND+MODE+%E2%9A%94%EF%B8%8F" /> </div>
+🔥 CURRENT ANIME QUEST
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│              🎯 MAIN QUEST                       │
+│                                                  │
+│     Become the strongest version of VIVEK.EXE    │
+│                                                  │
+│  ⚡ Learn                                      │
+│  ⚡ Build                                      │
+│  ⚡ Fail                                       │
+│  ⚡ Improve                                    │
+│  ⚡ Repeat                                     │
+│                                                  │
+└──────────────────────────────────────────────────┘
+<div align="center">
+🥷 DEVELOPER NINDO
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1200&color=00FFFF&center=true&vCenter=true&width=900&lines=I+Will+Keep+Coding...;I+Will+Keep+Learning...;I+Will+Keep+Building...;Until+I+Reach+My+Next+Level+%E2%9A%A1" /> <br/>
+「 THE ONLY LIMIT IS THE ONE YOU ACCEPT 」
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:7000FF&height=120&section=footer&animation=twinkling" /> </div> 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF00FF,100:00FFFF&height=3" />
+
+# 👁️ VIVEK.EXE // PLAYER STATUS
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=PLAYER+VIVEK.EXE+HAS+ENTERED+THE+SERVER...;WARNING%3A+POTENTIAL+DEVELOPER+DETECTED...;INITIALIZING+ANIME+POWER+SYSTEM...;STATUS%3A+LIMIT+BREAKING+%E2%9A%A1" />
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT SYSTEM
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎓 THE BEGINNING
+
+🟢 UNLOCKED
+
+Started the journey into  
+Computer Science & Coding.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 HELLO WORLD
+
+🟢 UNLOCKED
+
+First steps into the  
+world of Programming.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 PROJECT BUILDER
+
+🟢 UNLOCKED
+
+Building real projects  
+and learning by doing.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚔️ BUG HUNTER
+
+🟡 IN PROGRESS
+
+Defeating errors  
+one bug at a time.
+
+</td>
+
+<td align="center">
+
+### 🔥 FULL STACK AWAKENING
+
+🔒 LOCKED
+
+Unlocking soon...
+
+</td>
+
+<td align="center">
+
+### 👑 LEGENDARY DEVELOPER
+
+🔒 FINAL BOSS
+
+The final evolution  
+of VIVEK.EXE.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🎒 DEVELOPER INVENTORY
+
+</div>
+
+| ITEM | TYPE | STATUS |
+|---|---|---|
+| ⌨️ Keyboard | Main Weapon | ⚡ Equipped |
+| 💻 Laptop | Battle Station | ⚡ Equipped |
+| 🧠 Curiosity | Passive Skill | 🔥 MAX |
+| ☕ Debugging Energy | Consumable | 🟡 Low |
+| 🐍 Python | Skill | 🌱 Learning |
+| 🌐 Web Development | Skill | 🔥 Building |
+| 🤖 AI | Future Power | 🟣 Unlocking |
+| 🐛 Bugs | Enemy | 💀 Everywhere |
+
+---
+
+# 🎮 RPG CHARACTER STATS
+
+
+
+║             VIVEK.EXE // RPG STATS               ║
+
+║                                                  ║
+║  💻 CODING            ████████░░  80             ║
+║  🧠 PROBLEM SOLVING   ███████░░░  70             ║
+║  🔥 CREATIVITY        █████████░  90             ║
+║  ⚡ CONSISTENCY        ███████░░░  70             ║
+║  🚀 PROJECT BUILDING  ████████░░  80             ║
+║  😴 SLEEP SCHEDULE    ██░░░░░░░░  ???            ║
+║                                                  ║
+
+<div align="center">
+⚔️ BOSS FIGHTS
+</div>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BOSS #01
+
+🐛 THE SEGMENTATION FAULT
+
+STATUS: 🟡 ENCOUNTERED
+
+DIFFICULTY:
+██████░░░░
+
+REWARD:
++10 DEBUGGING XP
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BOSS #02
+
+💀 THE DEADLINE
+
+STATUS: 🔴 DANGEROUS
+
+DIFFICULTY:
+██████████
+
+REWARD:
++50 STRESS
++100 EXPERIENCE
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FINAL BOSS
+
+👑 THE BEST VERSION OF VIVEK.EXE
+
+STATUS: ⚡ CHALLENGING...
+
+DIFFICULTY:
+████████████████████
+
+REWARD:
+
+LEGENDARY STATUS 👑
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
+🌌 VIVEK.EXE TIMELINE
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=%5B2026%5D+THE+BEGINNING...;%5B2026%5D+ENTERING+THE+WORLD+OF+CODE...;%5BNOW%5D+BUILDING+PROJECTS+%E2%9A%A1;%5BNEXT%5D+LEVELING+UP...;%5BFUTURE%5D+LEGENDARY+DEVELOPER+MODE+%F0%9F%91%91" /> </div>
+<div align="center">
+🧬 SYSTEM EVOLUTION
+LEVEL 01
+
+🎓 Student
+
+⬇️
+
+LEVEL 02
+
+💻 Programmer
+
+⬇️
+
+LEVEL 03
+
+🚀 Project Builder
+
+⬇️
+
+LEVEL 04
+
+🔥 Full Stack Developer
+
+⬇️
+
+LEVEL 05
+
+🤖 AI Developer
+
+⬇️
+
+👑 LEVEL 99
+VIVEK.EXE
+「 LEGENDARY DEVELOPER 」
+</div>
+<div align="center">
+🔮 NEXT ARC PREVIEW
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=NEXT+ARC+LOADING...;THE+FULL+STACK+AWAKENING...;AI+POWER+SYSTEM+UNLOCKING...;NEW+PROJECTS+INCOMING...;%E2%9A%A1+VIVEK.EXE+WILL+RETURN+STRONGER+%E2%9A%A1" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:7000FF,100:00FFFF&height=150&section=footer&text=VIVEK.EXE&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=70" /> </div> 
 
