@@ -193,3 +193,61 @@ XP STATUS:
 <div align="center">
 ⚔️ TECH ARSENAL
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git,github,vscode,vite" /> </div>
+---
+
+<div align="center">
+
+# 📡 VIVEK.EXE // SYSTEM ANALYTICS
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=850&lines=%3E+accessing+GitHub+database...;%3E+analyzing+developer+activity...;%3E+generating+system+statistics...;%3E+DATA+SUCCESSFULLY+LOADED+%E2%9A%A1" />
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIVEK-ccv&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=VIVEK-ccv&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-ccv&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔥 DEVELOPER ACTIVITY
+
+### ⚡ CURRENT STATUS
+
+```text
+SYSTEM STATUS      : ONLINE
+CODING MODE        : ACTIVATED
+CURRENT MISSION    : LEVEL UP
+GITHUB STATUS      : GRINDING
+NEXT OBJECTIVE     : BUILD MORE PROJECTS
+</div>
+<div align="center">
+🏆 ACHIEVEMENTS UNLOCKED
+</div>
+╔══════════════════════════════════════════╗
+║          ACHIEVEMENT DATABASE            ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  🟢 FIRST REPOSITORY        [UNLOCKED]   ║
+║  🌐 FIRST WEBSITE           [UNLOCKED]   ║
+║  🌸 SAKURA PROJECT          [UNLOCKED]   ║
+║  🎮 GAMING HUB              [UNLOCKED]   ║
+║  🌱 HACKATHON PROJECT       [UNLOCKED]   ║
+║                                          ║
+║  🔒 100 COMMITS             [LOCKED]     ║
+║  🔒 10 PROJECTS             [LOCKED]     ║
+║  🔒 OPEN SOURCE CONTRIBUTOR [LOCKED]     ║
+║                                          ║
+╚══════════════════════════════════════════╝
+<div align="center">
+🌃 END OF TRANSMISSION
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Connection+terminated...;But+the+grind+never+stops.;VIVEK.EXE+is+still+running...+%E2%9A%A1" /> <br>
+⚡ CODE • LEARN • BUILD • REPEAT ⚡
+</div> ```
