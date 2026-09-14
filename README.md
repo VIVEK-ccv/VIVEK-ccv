@@ -15,7 +15,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -25,15 +25,15 @@
 </div>
 
 <pre>
-╔══════════════════════════════════════════════════════╗
-║                    VIVEK.EXE                         ║
-╠══════════════════════════════════════════════════════╣
-║  STATUS      : ONLINE ⚡                              ║
-║  ROLE        : B.Tech CSE Student 💻                  ║
-║  MODE        : Anime Developer 🎌                    ║
-║  THEME       : Cyberpunk 🌃                          ║
-║  MISSION     : Learn • Build • Level Up 🚀            ║
-╚══════════════════════════════════════════════════════╝
+  
+║                    VIVEK                         
+
+║  STATUS      : ONLINE ⚡                              
+║  ROLE        : B.Tech CSE Student 💻                  
+║  MODE        : Anime Developer 🎌                    
+║  THEME       : Cyberpunk 🌃                          
+║  MISSION     : Learn • Build • Level Up 🚀            
+
 </pre>
 
 
@@ -56,7 +56,7 @@
 
 
 NAME
-VIVEK.EXE
+VIVEK
 
 CLASS
 B.Tech CSE Student
@@ -103,7 +103,7 @@ LEARN → BUILD → FAIL → UPGRADE → REPEAT
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -119,7 +119,6 @@ LEARN → BUILD → FAIL → UPGRADE → REPEAT
 
 </div>
 
----
 
 <div align="center">
 
@@ -133,7 +132,7 @@ LEARN → BUILD → FAIL → UPGRADE → REPEAT
 
 🔗 https://github.com/VIVEK-ccv/gaming-hub
 
----
+
 
 ### 🌸 SAKURA PROPOSAL
 
@@ -141,7 +140,7 @@ LEARN → BUILD → FAIL → UPGRADE → REPEAT
 
 🚧 Currently Building...
 
----
+
 
 ### 🌱 KISANEDGE
 
@@ -149,7 +148,7 @@ LEARN → BUILD → FAIL → UPGRADE → REPEAT
 
 🚀 Hackathon Project
 
----
+
 
 <div align="center">
 
@@ -166,7 +165,7 @@ Projects             ███████████████░░░░  
 SYSTEM STATUS: ████████████████████ ONLINE ⚡
 </pre>
 
----
+
 
 <div align="center">
 
@@ -181,7 +180,7 @@ SYSTEM STATUS: ████████████████████ ONLI
 
 <div align="center">
 
-# 🖥️ VIVEK.EXE // COMMAND CENTER
+# 🖥️ VIVEK // COMMAND CENTER
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=850&lines=%3E+booting+VIVEK.EXE...;%3E+loading+developer+profile...;%3E+scanning+skills...;%3E+connecting+to+GitHub...;%3E+SYSTEM+ONLINE+%E2%9A%A1" />
 
@@ -238,7 +237,7 @@ AI / ML            ████░░░░░░░░░░░░░░░░ 
 
 </div>
 
----
+
 C PROGRAMMING      ████████░░░░░░░░░░░░   LEVEL 01
 
 PYTHON             ███████░░░░░░░░░░░░░   LEVEL 01
@@ -252,7 +251,7 @@ AI / ML            ████░░░░░░░░░░░░░░░░ 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CURRENT QUEST:
-> Become the strongest version of VIVEK.EXE ⚡
+> Become the strongest version of VIVEK⚡
 
 XP STATUS:
 ████████████████░░░░  80%
@@ -308,18 +307,17 @@ STATUS: GRINDING...
 
 text
 
-|              🎌 MAIN CHARACTER DATA                
-║                                                      ║
-║  NAME        : VIVEK.EXE                             ║
+|              MAIN CHARACTER DATA                
+                                                    
+  NAME        : VIVEK                            
 ║  CLASS       : B.Tech CSE Student                    ║
 ║  ARCHETYPE   : Developer Protagonist                 ║
 ║  POWER TYPE  : CODE + CREATIVITY                     ║
-║  CURRENT ARC : THE BEGINNING                        ║
-║  RIVAL       : BUGS & ERRORS 💀                     ║
-║  WEAPON      : KEYBOARD ⌨️                          ║
-║  SPECIALTY   : NEVER GIVING UP ⚡                   ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+║  CURRENT ARC : THE BEGINNING                         ║
+║  RIVAL       : BUGS & ERRORS 💀                      ║
+║  WEAPON      : KEYBOARD ⌨️                           ║
+║  SPECIALTY   : NEVER GIVING UP ⚡                    ║
+
 <div align="center">
 ⚡ POWER LEVEL SYSTEM
 </div>
