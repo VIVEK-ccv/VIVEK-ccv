@@ -189,18 +189,15 @@ SYSTEM STATUS: ████████████████████ ONLI
 <br>
 
 
-╔══════════════════════════════════════════════════════════════╗
 ║                    PLAYER PROFILE // 001                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
+                                                      
 ║  👤 USER       : VIVEK                                       ║
 ║  🎓 CLASS      : B.Tech CSE Student                          ║
 ║  💻 ROLE       : Developer In Progress                       ║
 ║  🎌 MODE       : Anime Developer                             ║
 ║  🌃 THEME      : Cyberpunk                                   ║
 ║  ⚡ STATUS     : GRINDING                                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                                                             
 
 
 <div align="center">
