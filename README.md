@@ -170,9 +170,43 @@ SYSTEM STATUS: ████████████████████ ONLI
 ║  ⚡ STATUS     : GRINDING                                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-🎮 DEVELOPER XP SYSTEM
+
+# 🎮 DEVELOPER XP SYSTEM
+
 </div>
+
+C PROGRAMMING      ████████░░░░░░░░░░░░   LEVEL 01
+
+PYTHON             ███████░░░░░░░░░░░░░   LEVEL 01
+
+WEB DEVELOPMENT    ██████░░░░░░░░░░░░░░   LEVEL 01
+
+GITHUB             █████████░░░░░░░░░░░   LEVEL 02
+
+AI / ML            ████░░░░░░░░░░░░░░░░   EXPLORING
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### CURRENT QUEST
+
+> Become the strongest version of VIVEK.EXE ⚡
+
+### XP STATUS
+
+████████████████░░░░ 80%
+
+<div align="center">
+
+# ⚔️ TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git,github,vscode,vite" />
+
+</div>
+
+---
 C PROGRAMMING      ████████░░░░░░░░░░░░   LEVEL 01
 
 PYTHON             ███████░░░░░░░░░░░░░   LEVEL 01
