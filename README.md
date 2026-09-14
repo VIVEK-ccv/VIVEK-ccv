@@ -1,18 +1,28 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=VIVEK.EXE+%E2%9A%A1;ANIME+DEVELOPER+%C3%97+CYBERPUNK+CODER;CODE.+LEARN.+BUILD.+REPEAT.;SYSTEM+STATUS%3A+ONLINE+%F0%9F%94%A5" />
+
+<br/>
+
 # ⚡ VIVEK.EXE ⚡
 
-### 「 ANIME DEVELOPER • CYBERPUNK CODER • CSE STUDENT 」
+### 「 ANIME DEVELOPER × CYBERPUNK CODER 」
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+VIVEK.exe...;System+Status%3A+ONLINE+%E2%9A%A1;Code.+Learn.+Build.+Repeat.;Welcome+to+my+Cyber+World+%F0%9F%94%A5" />
+<img src="https://komarev.com/ghpvc/?username=VIVEK-ccv&label=PROFILE+VISITORS&color=00ffff&style=for-the-badge" />
 
 </div>
 
 ---
 
-```text
+<div align="center">
+
+## 🖥️ SYSTEM.INITIALIZE()
+
+</div>
+
+<pre>
 ╔══════════════════════════════════════════════════════╗
-║                    VIVEK.exe                         ║
+║                    VIVEK.EXE                         ║
 ╠══════════════════════════════════════════════════════╣
 ║  STATUS      : ONLINE ⚡                              ║
 ║  ROLE        : B.Tech CSE Student 💻                  ║
@@ -20,6 +30,13 @@
 ║  THEME       : Cyberpunk 🌃                          ║
 ║  MISSION     : Learn • Build • Level Up 🚀            ║
 ╚══════════════════════════════════════════════════════╝
+</pre>
+
+---
+
+## 👨‍💻 ABOUT_ME.exe
+
+<pre>
 const vivek = {
     name: "VIVEK",
     role: "B.Tech CSE Student",
@@ -28,53 +45,99 @@ const vivek = {
     interests: ["AI", "Development", "Gaming", "Anime"],
     motto: "Code. Learn. Build. Repeat."
 };
-⚡ Currently grinding skills, building projects and leveling up one commit at a time.
+</pre>
+
+> ⚡ Currently grinding skills, building projects and leveling up one commit at a time.
+
+---
+
 <div align="center">
-⚔️ TECH ARSENAL
+
+# ⚔️ TECH ARSENAL ⚔️
+
+### 💻 LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript" />
+
+<br/><br/>
+
+### 🛠️ TOOLS & TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma" />
+
 </div>
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript" /> </p>
-🛠️ Tools & Technologies
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,figma" /> </p>
-🤖 Exploring
-<p> <img src="https://skillicons.dev/icons?i=ai" /> </p>
-<div align="center">
-📊 SYSTEM STATISTICS
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VIVEK-ccv&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VIVEK-ccv&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-ccv&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🚀 FEATURED PROJECTS
-🎮 Gaming Hub
 
-A gaming laptop recommendation and gaming-related project.
-
-🔗 Explore Project
-
-🌸 Sakura Proposal Website
-
-An interactive Sakura-themed website with animated cherry blossoms, memory stages and a special proposal journey. ❤️🌸
-
-🔗 Coming Soon...
-
-🌱 KisanEdge
-
-AI-powered smart agriculture platform for crop disease detection and intelligent farming insights.
-
-🚀 Built for Hackathons
+---
 
 <div align="center">
-🎯 CURRENT MISSION
+
+# 📊 SYSTEM STATISTICS
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VIVEK-ccv&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=FF00FF" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=VIVEK-ccv&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIVEK-ccv&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF" />
+
 </div>
-[██████████░░░░░░░░░░]  LEARNING C
 
-[████████████░░░░░░░░]  PYTHON
+---
 
-[███████████░░░░░░░░░]  WEB DEVELOPMENT
-
-[██████████████░░░░░░]  BUILDING PROJECTS
-
-[████████████████░░░░]  LEVELING UP 🚀
 <div align="center">
-🌃 ENTERING CYBER MODE...
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Dream+like+an+Anime+Character...;Build+like+a+Developer...;Grind+like+a+Machine...;Become+the+Main+Character.+" /> </div>
+
+# 🚀 FEATURED PROJECTS
+
+</div>
+
+### 🎮 GAMING HUB
+
+> Gaming laptop recommendations and gaming-related projects.
+
+🔗 https://github.com/VIVEK-ccv/gaming-hub
+
+---
+
+### 🌸 SAKURA PROPOSAL
+
+> An interactive romantic Sakura-themed website with animated cherry blossoms and special memories. ❤️🌸
+
+🚧 Currently Building...
+
+---
+
+### 🌱 KISANEDGE
+
+> AI-powered smart agriculture platform for crop disease detection and intelligent farming.
+
+🚀 Hackathon Project
+
+---
+
 <div align="center">
-⚡ CODE • LEARN • BUILD • REPEAT ⚡
-<img src="https://komarev.com/ghpvc/?username=VIVEK-ccv&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" /> </div> ```
+
+# 🎯 CURRENT MISSION
+
+</div>
+
+<pre>
+C Programming        ██████████░░░░░░░░░░  LEVELING UP
+Python               ████████████░░░░░░░░  LEARNING
+Web Development      ███████████░░░░░░░░  BUILDING
+Projects             ███████████████░░░░  GRINDING
+
+SYSTEM STATUS: ████████████████████ ONLINE ⚡
+</pre>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=850&lines=Dream+like+an+Anime+Character...;Build+like+a+Developer...;Grind+like+a+Machine...;Become+the+Main+Character+%E2%9A%A1" />
+
+<br/><br/>
+
+# ⚡ CODE • LEARN • BUILD • REPEAT ⚡
+
+</div>
